@@ -8,7 +8,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-template/
+templates/
+linear_model_1.pkl
 build/
 develop-eggs/
 dist/
