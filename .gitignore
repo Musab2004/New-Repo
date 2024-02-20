@@ -5,11 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
+*.pkl
 
 # Distribution / packaging
 .Python
 templates/
-linear_model_1.pkl
 build/
 develop-eggs/
 dist/
